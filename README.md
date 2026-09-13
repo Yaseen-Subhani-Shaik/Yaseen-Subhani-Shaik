@@ -61,7 +61,7 @@ I enjoy working with **Python, SQL, Data Analysis, Machine Learning and Generati
 
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,sklearn,fastapi,langchain,langgraph,n8n,git,github,vscode,wordpress&perline=4&theme=dark" width="100%" alt="Technology stack">
+<img src="https://skillicons.dev/icons?i=python,postgresql,sklearn,fastapi,git,github,vscode,wordpress&perline=4&theme=dark" width="100%" alt="Technology stack">
 
 </td>
 </tr>
