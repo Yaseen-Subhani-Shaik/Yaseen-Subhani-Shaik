@@ -3,7 +3,7 @@
 <h1>Hey there, I'm Shaik Yaseen Subhani 👋</h1>
 
 <a href="https://github.com/Yaseen-Subhani-Shaik">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=560&lines=AI+%26+Data+Science+Graduate;Aspiring+AI+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Generative+AI;Building+AI-Powered+Applications" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=600&lines=AI+%26+Data+Science+Graduate;Aspiring+AI+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Generative+AI;Building+AI-Powered+Applications" alt="Typing SVG">
 </a>
 
 <p>
@@ -31,7 +31,9 @@
   <img src="https://komarev.com/ghpvc/?username=Yaseen-Subhani-Shaik&style=for-the-badge&label=PROFILE%20VIEWS&color=58A6FF&labelColor=161B22" alt="Profile views">
 </p>
 
-<br clear="both">
+<br>
+
+<img src="./img.png" width="180" alt="Shaik Yaseen Subhani">
 
 </div>
 
@@ -43,35 +45,37 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shaik Yaseen Subhani**, a **B.Tech Artificial Intelligence & Data Science graduate (2026)** focused on building data-driven and AI-powered solutions.
+I'm **Shaik Yaseen Subhani**, a **B.Tech Artificial Intelligence & Data Science graduate (2026)** focused on building practical, data-driven and AI-powered solutions.
 
-I enjoy turning data and ideas into practical applications using **Python, SQL, Machine Learning and Generative AI**.
+I enjoy working with **Python, SQL, Data Analysis, Machine Learning and Generative AI** to turn ideas into useful applications.
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analysis & Data Science
-- 🐍 Python & SQL
-- 🧠 Generative AI & LLMs
-- 🔗 Exploring LangChain & FastAPI
-- 🚀 Building practical AI-powered applications
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Analysis & Data Science
+* 🐍 Python & SQL
+* 🧠 Generative AI & Large Language Models
+* 🔗 Learning LangChain & FastAPI
+* 🚀 Building practical AI-powered applications
+* 📚 Continuously improving my technical skills
 
 > **Learn. Build. Experiment. Improve.**
 
 </td>
+
 <td width="35%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=python,java,postgresql,numpy,pandas,sklearn,git,github,vscode,wordpress&perline=5&theme=dark" width="100%" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,java,postgresql,numpy,pandas,sklearn,fastapi,git,github,vscode,wordpress&perline=4&theme=dark" width="100%" alt="Technology stack">
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,java,postgresql,numpy,pandas,sklearn,fastapi,git,github,vscode,wordpress&perline=8&theme=dark" alt="Tech stack">
+<img src="https://skillicons.dev/icons?i=python,java,postgresql,numpy,pandas,sklearn,fastapi,git,github,vscode,wordpress&perline=8&theme=dark" alt="Technology stack">
 
 </div>
 
@@ -80,12 +84,15 @@ I enjoy turning data and ideas into practical applications using **Python, SQL, 
 ## 📌 Featured Projects
 
 ### 🧠 Brain Tumor Detection using Deep Learning
-AI-based deep learning project for detecting brain tumors from MRI images.
+
+AI-based deep learning project focused on detecting brain tumors from MRI images.
 
 ### ✍️ AI SEO Blog Generator
-AI-powered content generation application built using **Streamlit** and the **Gemini API** for creating SEO-friendly blog content.
+
+AI-powered content generation application built using **Streamlit** and the **Gemini API** for generating SEO-friendly blog content.
 
 ### 📋 Attendance Management System
+
 WordPress-based attendance management system with separate **student, faculty and admin roles**.
 
 ---
@@ -94,8 +101,13 @@ WordPress-based attendance management system with separate **student, faculty an
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yaseen-Subhani-Shaik&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-Subhani-Shaik&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages">
+<a href="https://github.com/Yaseen-Subhani-Shaik">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaseen-Subhani-Shaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub stats">
+</a>
+
+<a href="https://github.com/Yaseen-Subhani-Shaik">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaseen-Subhani-Shaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top languages">
+</a>
 
 </div>
 
@@ -117,8 +129,26 @@ WordPress-based attendance management system with separate **student, faculty an
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+## 🔗 Coding Profiles
+
+<a href="https://www.hackerrank.com/profile/yaseensubhani5">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+</a>
+
+<a href="https://leetcode.com/u/yaseensubhani/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+
+</div>
+
 <br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&fontSize=19&fontColor=ffffff&fontAlignY=65&color=gradient&customColorList=6,12,20,24" width="100%" alt="Waving footer">
+
+<br>
+
 <sub><b>© Shaik Yaseen Subhani</b> · AI & Data Science · Python · Machine Learning · Generative AI</sub>
 
 </div>
