@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" src="./img.png" width="250" hspace="15" alt="Shaik Yaseen Subhani">
+<img align="right" hspace="15" alt="Shaik Yaseen Subhani">
 
 <h1>Hey there, I'm Shaik Yaseen Subhani 👋</h1>
 
