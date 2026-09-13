@@ -33,8 +33,6 @@
 
 <br>
 
-<img src="./img.png" width="180" alt="Shaik Yaseen Subhani">
-
 </div>
 
 ---
