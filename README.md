@@ -1,6 +1,6 @@
 <div align="left">
 
-<h1>Hey there, I'm Shaik Yaseen Subhani 👋</h1>
+<h1>Hey there, I'm Yaseen Subhani 👋</h1>
 
 <a href="https://github.com/Yaseen-Subhani-Shaik">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=false&vCenter=true&width=600&lines=AI+%26+Data+Science+Graduate;Aspiring+AI+Engineer;Python+%7C+SQL+%7C+Machine+Learning;Data+Analysis+%7C+Generative+AI;Building+AI-Powered+Applications" alt="Typing SVG">
@@ -10,7 +10,7 @@
   <a href="https://github.com/Yaseen-Subhani-Shaik">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/shaik-yaseen-subhani/">
+  <a href="https://www.linkedin.com/in/yaseen-subhani-shaik/">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn">
   </a>
   <a href="https://www.hackerrank.com/profile/yaseensubhani5">
